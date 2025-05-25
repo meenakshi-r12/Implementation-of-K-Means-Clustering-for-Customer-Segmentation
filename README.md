@@ -31,7 +31,6 @@ RegisterNumber:
 import pandas as pd
 import matplotlib.pyplot as plt
 data = pd.read_csv("Mall_Customers.csv")
-print("Name: Sukirthana.M\n Reg.no: 212224220112")
 data.head()
 
 data.info()
