@@ -71,6 +71,17 @@ plt.title("Customer Segments")
 ```
 ## Output:
 
+![WhatsApp Image 2025-05-25 at 09 11 53_8bfded38](https://github.com/user-attachments/assets/fbd56cf1-1fd6-4d6b-b390-95f09bcfb58a)
+
+![WhatsApp Image 2025-05-25 at 09 12 07_1b038839](https://github.com/user-attachments/assets/c40568bd-162b-470a-a939-0429776b1661)
+
+![WhatsApp Image 2025-05-25 at 09 12 22_aa006337](https://github.com/user-attachments/assets/33ecc1ea-61e8-42e6-bb1f-9d52d0a37892)
+
+![WhatsApp Image 2025-05-25 at 09 12 34_e7ca4a89](https://github.com/user-attachments/assets/f3067907-22e0-4f69-a251-5f8036d689ef)
+
+![WhatsApp Image 2025-05-25 at 09 12 45_72e9d494](https://github.com/user-attachments/assets/23a2bbfa-8a1e-4450-8dee-9b05884f6b4d)
+
+![WhatsApp Image 2025-05-25 at 09 12 59_b32bcd63](https://github.com/user-attachments/assets/64e8814f-ca9d-4cd9-8ccd-48567c569b57)
 
 
 ## Result:
